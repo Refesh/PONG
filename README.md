@@ -35,3 +35,6 @@ Para la implementación del juego he usado Processing 3.5.4, con la librearía S
 - SoundFile - librería de sonido de Processing
 - Sonido pelota contra raqueta: https://freesound.org/people/NoiseCollector/sounds/4365/
 - Sonido pelota contra pared: https://freesound.org/people/NoiseCollector/sounds/4366/
+
+## GIF
+![Alt Text](pong.gif)
