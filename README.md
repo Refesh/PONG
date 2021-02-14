@@ -1,5 +1,3 @@
-# PONG
-
 # Autor
 
 Fernando Marcelo Alonso.
