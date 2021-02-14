@@ -37,4 +37,4 @@ Para la implementación del juego he usado Processing 3.5.4, con la librearía S
 - Sonido pelota contra pared: https://freesound.org/people/NoiseCollector/sounds/4366/
 
 ## GIF
-![Alt Text](pong.gif)
+![Alt Text](Pong.gif)
