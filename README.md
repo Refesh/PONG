@@ -14,6 +14,8 @@ Para la implementación del juego he usado Processing 3.5.4, con la librearía S
 
 **Menú:** Al entrar al juego la primera pantalla que vemos es un menú donde se da información sobre los controles del juego además de indicar como se puede pausar el mismo y como se puede iniciar la partida, después de que un jugador gane se mostrará dicha pantalla con la información extra de quien ganó la partida.
 
+![image](readmeImages/menu.png)
+
 **Controles:** Los controles que seleccione para el movimiento de las palas son la flecha hacia arriba y abajo para el jugador de la derecha y las teclas w y s para el jugador de la izquierda, elegí estas teclas pues se encuentran bastante alejadas para que no se molesten los jugadores, además de ser las más intuitivas pues en la mayoría de videojuegos se usan una de las dos combinaciones para el movimiento. 
 
 **Detección del movimiento:** Para la detección del movimiento se usan los métodos keyPressed y keyReleased, cuando se pulsa una tecla de movimiento se mueve la pala en cada draw hasta que se detecte el KeyReleased, esto nos permite detectar varias teclas a la vez además de que el movimiento es más continuo e instantáneo.
