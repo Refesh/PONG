@@ -23,6 +23,10 @@ Para la implementación del juego he usado Processing 3.5.4, con la librearía S
 
 **Detección del movimiento:** Para la detección del movimiento se usan los métodos keyPressed y keyReleased, cuando se pulsa una tecla de movimiento se mueve la pala en cada draw hasta que se detecte el KeyReleased, esto nos permite detectar varias teclas a la vez además de que el movimiento es más continuo e instantáneo.
 
+<img src="readmeImages/pause.png"
+     alt="Menu"
+     width="40%" />
+
 **Pausa:** Seleccioné el espacio como tecla de pausa pues se encuentra en medio de las teclas de ambos jugadores, como añadido su gran tamaño ayuda a localizarla rápido y no perder tiempo en el momento de pausar.
 
 **Marcador:** El marcador se encuentra en el centro arriba y muestra las puntuaciones de los usuarios, se colocó en ese sitio para no distraer y permitir una comprobación rápida.
