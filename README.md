@@ -1,6 +1,7 @@
-# Autor
+# Datos
 
-Fernando Marcelo Alonso
+Autor: Fernando Marcelo Alonso
+Asignatura: Creando Interfaces de Usuario(CIU)
 
 ## Idea general
 
