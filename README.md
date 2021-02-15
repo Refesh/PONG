@@ -1,6 +1,6 @@
 # Autor
 
-Fernando Marcelo Alonso.
+Fernando Marcelo Alonso
 
 ## Idea general
 
