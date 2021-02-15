@@ -15,6 +15,9 @@ Para la implementación del juego he usado Processing 3.5.4, con la librearía S
 
 <img src="readmeImages/menu.png"
      alt="Menu"
+     style="display: block
+  margin-left: auto
+  margin-right: auto"
      width="40%" />
 
 **Menú:** Al entrar al juego la primera pantalla que vemos es un menú donde se da información sobre los controles del juego además de indicar como se puede pausar el mismo y como se puede iniciar la partida, después de que un jugador gane se mostrará dicha pantalla con la información extra de quien ganó la partida.
