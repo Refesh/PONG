@@ -12,9 +12,12 @@ Hay un marcador y el primero que llegue a 10 puntos gana la partida.
 
 Para la implementación del juego he usado Processing 3.5.4, con la librearía Sound de processing además de las librearías nativas Math, random...
 
-**Menú:** Al entrar al juego la primera pantalla que vemos es un menú donde se da información sobre los controles del juego además de indicar como se puede pausar el mismo y como se puede iniciar la partida, después de que un jugador gane se mostrará dicha pantalla con la información extra de quien ganó la partida.
 
-![image](readmeImages/menu.png)
+<img src="readmeImages/menu.png"
+     alt="Menu"
+     width="40%" />
+
+**Menú:** Al entrar al juego la primera pantalla que vemos es un menú donde se da información sobre los controles del juego además de indicar como se puede pausar el mismo y como se puede iniciar la partida, después de que un jugador gane se mostrará dicha pantalla con la información extra de quien ganó la partida.
 
 **Controles:** Los controles que seleccione para el movimiento de las palas son la flecha hacia arriba y abajo para el jugador de la derecha y las teclas w y s para el jugador de la izquierda, elegí estas teclas pues se encuentran bastante alejadas para que no se molesten los jugadores, además de ser las más intuitivas pues en la mayoría de videojuegos se usan una de las dos combinaciones para el movimiento. 
 
