@@ -4,7 +4,7 @@ Autor: Fernando Marcelo Alonso
 
 Asignatura: Creando Interfaces de Usuario(CIU)
 
-## Idea general
+## Introducción
 
 El juego es de dos jugadores uno en cada lado de una "cancha" cada jugador controla un pala, esta pala solo se puede mover verticalmente con el objetivo de no dejar pasar una bola y también intentar dirigir la bola para que el contrario no pueda pararla. 
 
