@@ -13,7 +13,7 @@ Hay un marcador y el primero que llegue a 10 puntos gana la partida.
 Para la implementación del juego he usado Processing 3.5.4, con la librearía Sound de processing además de las librearías nativas Math, random...
 
 
-<div style="text-align:center"><img src="readmeImages/menu.png"
+<div align="center"><img src="readmeImages/menu.png"
      alt="Menu"
      width="40%" /></div>
 
